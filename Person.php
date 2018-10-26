@@ -11,7 +11,7 @@ class Person
     public $age;
 
     /**
-     * Person constructor.  鼠标停放在$name上， 按command + n 生成这个变量的构造方法
+     * Person constructor.  鼠标停放在$name上， 按command + n 生成这个变量的构造方法(phpstorm)
      * @param $name
      */
     public function __construct($name)
