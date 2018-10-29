@@ -17,6 +17,6 @@ class Task {
     }
 }
 
-$task = new Task();
-var_dump($task -> desc);
-var_dump($task ->learn('php'));
+$task = new Task(); // go to store
+var_dump($task -> desc); // go to store
+var_dump($task ->learn('php')); // php
